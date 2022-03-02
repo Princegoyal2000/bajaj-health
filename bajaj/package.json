@@ -1,0 +1,17 @@
+{
+  "name": "bajaj",
+  "version": "1.0.0",
+  "description": "Bajaj Health Programming Challenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Prince Goyal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "path": "^0.12.7"
+  }
+}
